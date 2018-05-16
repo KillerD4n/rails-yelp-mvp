@@ -1,0 +1,17 @@
+// Place all the styles related to the Restaurants controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.container {
+  vertical-align: center;
+  text-align: left;
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-top:50px;
+}
+#links {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  padding-top: 100px;
+}
